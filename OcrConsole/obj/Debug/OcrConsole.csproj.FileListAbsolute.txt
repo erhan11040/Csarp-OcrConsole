@@ -1,0 +1,6 @@
+D:\TumProjeler\OcrConsole\OcrConsole\bin\Debug\OcrConsole.exe
+D:\TumProjeler\OcrConsole\OcrConsole\bin\Debug\OcrConsole.pdb
+D:\TumProjeler\OcrConsole\OcrConsole\obj\Debug\OcrConsole.csprojAssemblyReference.cache
+D:\TumProjeler\OcrConsole\OcrConsole\obj\Debug\OcrConsole.csproj.CoreCompileInputs.cache
+D:\TumProjeler\OcrConsole\OcrConsole\obj\Debug\OcrConsole.exe
+D:\TumProjeler\OcrConsole\OcrConsole\obj\Debug\OcrConsole.pdb
